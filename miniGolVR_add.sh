@@ -1,3 +1,7 @@
+git add ./Assets/Scripts/
+git add ./Assets/Scenes/
+git add ./Assets/Settings/
+git add ./Assets/Materials/
 git add ./Packages/
 git add ./ProjectSettings/
 git add ./.gitignore
