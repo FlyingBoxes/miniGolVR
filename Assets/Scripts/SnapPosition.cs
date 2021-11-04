@@ -4,20 +4,10 @@ using UnityEngine;
 
 public class SnapPosition : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     void OnTriggerEnter(Collider other)
     {
+        
+        other.transform.parent.position = transform.position;
         Debug.Log("Hitting trigger");
     }
 }
