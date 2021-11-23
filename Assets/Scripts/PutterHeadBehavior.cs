@@ -2,28 +2,32 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
+using UnityEngine.UI;
 
-public class HapticImpulse : MonoBehaviour
+public class PutterHeadBehavior : MonoBehaviour
 {
     [SerializeField] private ActionBasedController rightController;
     [SerializeField] private AudioSource putterSound;
-    
+    [SerializeField] public Text strokeText;
 
     void Start()
     {
+        ScoreKeeper.score = 0;
+        strokeText.text = ScoreKeeper.score.ToString();
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Ball"))
         {
-            rightController.SendHapticImpulse(0.08f, .05f);
             putterSound.Play(0);
+            rightController.SendHapticImpulse(0.08f, .05f);
 
-
-            ScoreKeeper.stroke(0, 0);
-            ScoreKeeper.printScore((int)0, (int)0);
+            ScoreKeeper.score++;
+            strokeText.text = ScoreKeeper.score.ToString();
         }
         
     }
+
+    
 }

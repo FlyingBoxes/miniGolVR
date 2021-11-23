@@ -2,21 +2,39 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScoreKeeper : MonoBehaviour
+public class ScoreKeeper: MonoBehaviour 
 {
-    private static int numPlayers = 2;
-    private static int numHoles = 6;
+    public static ScoreKeeper SK;
 
-    public static int[,] scores = new int[numPlayers, numHoles];
+    public static int numPlayers = 0;
+    public static int numHoles = 0;
 
-    // increment score for a specific player on a specific hole number.
-    public static void stroke(int player, int hole)
+    public static int[,] scores = new int[4, 18];
+    public static int score;
+
+    void Awake()
     {
-        scores[player, hole] = scores[player, hole] + 1; 
+        if (SK != null)
+        {
+            GameObject.Destroy(SK);
+        }
+        else
+        {
+
+            SK = this;
+        }
+
+        DontDestroyOnLoad(this);
     }
-    
-    public static void printScore(int player, int hole)
+
+    public static void printScore ()
     {
-        Debug.Log("Score: " + scores[player, hole].ToString());
+        for (int i = 0; i < numPlayers; i++)
+        {
+            for (int j = 0; j < numHoles; j++)
+            {
+                Debug.Log("Player #: " + i.ToString() + "Hole #: " + j.ToString() + "\t" + "Score: " + scores[i, j].ToString());
+            }
+        }
     }
 }
