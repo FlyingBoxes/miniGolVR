@@ -231,6 +231,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadRamp_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 141380, guid: d20120b33d0c2f04bb43f56b05941fc9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 489420, guid: d20120b33d0c2f04bb43f56b05941fc9, type: 3}
       propertyPath: m_RootOrder
       value: 43
@@ -287,6 +291,10 @@ PrefabInstance:
     - target: {fileID: 175050, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadZigzag_08
+      objectReference: {fileID: 0}
+    - target: {fileID: 175050, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 402216, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
       propertyPath: m_RootOrder
@@ -411,7 +419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 47728365}
   - component: {fileID: 47728366}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: hole 14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -695,6 +703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 153348, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 461304, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -751,6 +763,10 @@ PrefabInstance:
     - target: {fileID: 175050, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadZigzag_08 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 175050, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 402216, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
       propertyPath: m_RootOrder
@@ -1257,6 +1273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabin2_Stairs (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -1380,6 +1400,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -1475,6 +1499,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -1763,6 +1791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabin2_Stairs (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -1885,6 +1917,10 @@ PrefabInstance:
     - target: {fileID: 110186, guid: 6b9c2f9bace526642983db947e1c33ac, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevation_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 110186, guid: 6b9c2f9bace526642983db947e1c33ac, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 412460, guid: 6b9c2f9bace526642983db947e1c33ac, type: 3}
       propertyPath: m_RootOrder
@@ -2175,6 +2211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadCurve_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 150628, guid: 06cf00777fd69e34cb8b7f01776e4f6e, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 474602, guid: 06cf00777fd69e34cb8b7f01776e4f6e, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -2262,6 +2302,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -2452,6 +2496,10 @@ PrefabInstance:
     - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
@@ -3166,6 +3214,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadCurve_04
       objectReference: {fileID: 0}
+    - target: {fileID: 114776, guid: 0e3b8d14bb6827a4e86bf9af5a7a951c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 491232, guid: 0e3b8d14bb6827a4e86bf9af5a7a951c, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -3652,6 +3704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -3936,6 +3992,133 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 942762337184432749, guid: b9c7a183a7a2e004cb24435cb080a708, type: 3}
   m_PrefabInstance: {fileID: 483872230}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &508606751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 508606752}
+  - component: {fileID: 508606753}
+  m_Layer: 0
+  m_Name: Audio Source
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &508606752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 508606751}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.78, y: 6.07, z: 3.959}
+  m_LocalScale: {x: 10.569068, y: 39.66625, z: 10.569068}
+  m_Children: []
+  m_Father: {fileID: 833729703}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &508606753
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 508606751}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e509e7af45eae174f9b0e5d873863731, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!4 &508679577 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 407914, guid: 47e6d7b149fbc8447a04e36ea0d399cb, type: 3}
@@ -4022,6 +4205,10 @@ PrefabInstance:
     - target: {fileID: 114776, guid: 0e3b8d14bb6827a4e86bf9af5a7a951c, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadCurve_04 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114776, guid: 0e3b8d14bb6827a4e86bf9af5a7a951c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 491232, guid: 0e3b8d14bb6827a4e86bf9af5a7a951c, type: 3}
       propertyPath: m_RootOrder
@@ -4110,6 +4297,10 @@ PrefabInstance:
     - target: {fileID: 150628, guid: 06cf00777fd69e34cb8b7f01776e4f6e, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadCurve_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 150628, guid: 06cf00777fd69e34cb8b7f01776e4f6e, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 474602, guid: 06cf00777fd69e34cb8b7f01776e4f6e, type: 3}
       propertyPath: m_RootOrder
@@ -4264,6 +4455,10 @@ PrefabInstance:
     - target: {fileID: 140398, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_04 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 140398, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 486880, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
       propertyPath: m_RootOrder
@@ -4879,6 +5074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 118216, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 429636, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -5097,7 +5296,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 589650839}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5201,6 +5400,10 @@ PrefabInstance:
     - target: {fileID: 118216, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 118216, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 429636, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
       propertyPath: m_RootOrder
@@ -5356,6 +5559,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 153348, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 461304, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -5412,6 +5619,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -5598,6 +5809,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabin2_Stairs (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -5718,7 +5933,7 @@ GameObject:
   - component: {fileID: 700465318}
   - component: {fileID: 700465317}
   - component: {fileID: 700465316}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Terrain
   m_TagString: Terrain
   m_Icon: {fileID: 0}
@@ -5896,6 +6111,10 @@ PrefabInstance:
     - target: {fileID: 140398, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_04 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 140398, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 486880, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
       propertyPath: m_RootOrder
@@ -6255,6 +6474,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -6625,6 +6848,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadZigzag_07 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 118164, guid: f217c8a54ce66264291531d7a5348b84, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 449364, guid: f217c8a54ce66264291531d7a5348b84, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -6682,6 +6909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabin2_Stairs (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -6728,6 +6959,117 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+--- !u!1 &833729698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 833729703}
+  - component: {fileID: 833729702}
+  - component: {fileID: 833729701}
+  - component: {fileID: 833729700}
+  - component: {fileID: 833729699}
+  m_Layer: 0
+  m_Name: Cylinder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &833729699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 833729698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea3b124bce3b7de41ac6177fb235b25f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inHole: {fileID: 508606753}
+--- !u!136 &833729700
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 833729698}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 0.5000001
+  m_Height: 3.7530515
+  m_Direction: 1
+  m_Center: {x: 0.00000007874569, y: 0.00000029553658, z: -0.00000007874569}
+--- !u!23 &833729701
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 833729698}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &833729702
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 833729698}
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &833729703
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 833729698}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.942, y: 6.07, z: 7.22}
+  m_LocalScale: {x: 0.09461572, y: 0.025210349, z: 0.09461572}
+  m_Children:
+  - {fileID: 508606752}
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &837308603 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
@@ -7058,6 +7400,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 153348, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 461304, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -7212,6 +7558,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabin2_Stairs (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -7335,6 +7685,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -7485,6 +7839,10 @@ PrefabInstance:
     - target: {fileID: 110186, guid: 6b9c2f9bace526642983db947e1c33ac, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevation_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 110186, guid: 6b9c2f9bace526642983db947e1c33ac, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 412460, guid: 6b9c2f9bace526642983db947e1c33ac, type: 3}
       propertyPath: m_RootOrder
@@ -7776,6 +8134,10 @@ PrefabInstance:
     - target: {fileID: 110470, guid: 49fd6d0bf5b35ee4c82d48205dbd127a, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadStraight_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 110470, guid: 49fd6d0bf5b35ee4c82d48205dbd127a, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 461210, guid: 49fd6d0bf5b35ee4c82d48205dbd127a, type: 3}
       propertyPath: m_RootOrder
@@ -8354,6 +8716,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_04
       objectReference: {fileID: 0}
+    - target: {fileID: 140398, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 486880, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
       propertyPath: m_RootOrder
       value: 37
@@ -8476,6 +8842,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -8672,6 +9042,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 190644, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 416820, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -8800,6 +9174,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 190644, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 416820, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -8887,6 +9265,10 @@ PrefabInstance:
     - target: {fileID: 118216, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 118216, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 429636, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
       propertyPath: m_RootOrder
@@ -9317,6 +9699,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
       value: 46
@@ -9724,6 +10110,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
       value: 45
@@ -9788,6 +10178,10 @@ PrefabInstance:
     - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
@@ -10484,6 +10878,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadZigzag_07
       objectReference: {fileID: 0}
+    - target: {fileID: 118164, guid: f217c8a54ce66264291531d7a5348b84, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 449364, guid: f217c8a54ce66264291531d7a5348b84, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -10541,6 +10939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadStraight_02
       objectReference: {fileID: 0}
+    - target: {fileID: 165380, guid: 5d554c3685ca8fb49b36f6b05b60e99b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 475766, guid: 5d554c3685ca8fb49b36f6b05b60e99b, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -10597,6 +10999,10 @@ PrefabInstance:
     - target: {fileID: 190644, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 190644, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 416820, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
       propertyPath: m_RootOrder
@@ -11696,6 +12102,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadStraight_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 165380, guid: 5d554c3685ca8fb49b36f6b05b60e99b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 475766, guid: 5d554c3685ca8fb49b36f6b05b60e99b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -12076,6 +12486,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 190644, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 416820, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -12367,6 +12781,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -12810,6 +13228,49 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 475766, guid: 5d554c3685ca8fb49b36f6b05b60e99b, type: 3}
   m_PrefabInstance: {fileID: 1288963945}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1550139848
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1550139850}
+  - component: {fileID: 1550139849}
+  m_Layer: 0
+  m_Name: GameMaster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1550139849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550139848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffdc1b0fc357d9246b6bde65b352f0e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1550139850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550139848}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.048525, y: 4.115122, z: 12.77}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1550585975 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 402216, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
@@ -12893,6 +13354,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_04 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 140398, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 486880, guid: 9674c5ae18f1db24580bf045f3b725b3, type: 3}
       propertyPath: m_RootOrder
       value: 35
@@ -12950,6 +13415,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadZigzag_08 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 175050, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 402216, guid: db9936593dfb7ae4ca0c43a4cab8db55, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -13006,6 +13475,10 @@ PrefabInstance:
     - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04
+      objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
@@ -13271,6 +13744,10 @@ PrefabInstance:
     - target: {fileID: 176954, guid: b18afab7c18d2f04684cd45b568ffd55, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadStart
+      objectReference: {fileID: 0}
+    - target: {fileID: 176954, guid: b18afab7c18d2f04684cd45b568ffd55, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 493450, guid: b18afab7c18d2f04684cd45b568ffd55, type: 3}
       propertyPath: m_RootOrder
@@ -13815,6 +14292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_02
       objectReference: {fileID: 0}
+    - target: {fileID: 153348, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 461304, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -13933,6 +14414,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -14347,6 +14832,10 @@ PrefabInstance:
     - target: {fileID: 118164, guid: f217c8a54ce66264291531d7a5348b84, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadZigzag_07 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 118164, guid: f217c8a54ce66264291531d7a5348b84, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 449364, guid: f217c8a54ce66264291531d7a5348b84, type: 3}
       propertyPath: m_RootOrder
@@ -15158,6 +15647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabin2_Stairs (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -15311,6 +15804,10 @@ PrefabInstance:
     - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevation_04 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 170694, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 403854, guid: c8032f81d3bcd244c820729766633ac7, type: 3}
       propertyPath: m_RootOrder
@@ -15524,6 +16021,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadRamp_02
       objectReference: {fileID: 0}
+    - target: {fileID: 141380, guid: d20120b33d0c2f04bb43f56b05941fc9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 489420, guid: d20120b33d0c2f04bb43f56b05941fc9, type: 3}
       propertyPath: m_RootOrder
       value: 38
@@ -15580,6 +16081,10 @@ PrefabInstance:
     - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_Name
       value: Cabin2_Stairs (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 144994, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 417640, guid: de27278e60c8d8b42a3ae02c5da3edf8, type: 3}
       propertyPath: m_RootOrder
@@ -15952,6 +16457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadStraight_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 110470, guid: 49fd6d0bf5b35ee4c82d48205dbd127a, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 461210, guid: 49fd6d0bf5b35ee4c82d48205dbd127a, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -16149,6 +16658,10 @@ PrefabInstance:
     - target: {fileID: 153348, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 153348, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 461304, guid: 0e1b5aed76ec06445b282c4cde9805ac, type: 3}
       propertyPath: m_RootOrder
@@ -16438,6 +16951,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_01
       objectReference: {fileID: 0}
+    - target: {fileID: 190644, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 416820, guid: 88b109a98d3c98f44baf7cff8c985ebf, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -16662,6 +17179,10 @@ PrefabInstance:
     - target: {fileID: 118216, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadElevationCurve_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 118216, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 429636, guid: e49ab66ee1c7c0947b842a273f868adf, type: 3}
       propertyPath: m_RootOrder
@@ -17815,6 +18336,14 @@ PrefabInstance:
     - target: {fileID: 119022, guid: 47e6d7b149fbc8447a04e36ea0d399cb, type: 3}
       propertyPath: m_Name
       value: pref_TrackRoadHole_08
+      objectReference: {fileID: 0}
+    - target: {fileID: 119022, guid: 47e6d7b149fbc8447a04e36ea0d399cb, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 163222, guid: 47e6d7b149fbc8447a04e36ea0d399cb, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 407914, guid: 47e6d7b149fbc8447a04e36ea0d399cb, type: 3}
       propertyPath: m_RootOrder
