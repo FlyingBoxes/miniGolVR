@@ -849,7 +849,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.768
+      value: -1.785
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalPosition.y
@@ -857,11 +857,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.937
+      value: 0.942
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.92387956
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalRotation.x
@@ -869,7 +869,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.38268343
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalRotation.z
@@ -881,7 +881,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 45
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 456342, guid: ce71423c862a85c44a6d1ac43bdcadf2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -9228,7 +9228,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 0
-  m_ModelPrefab: {fileID: 1701846526075113373, guid: e675be4625e92cb4a8b06bb90d6b028f, type: 3}
+  m_ModelPrefab: {fileID: 4835316937967144, guid: a7c07a52a1d07b6459a54cd5044b5cf7, type: 3}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
   m_AnimateModel: 0
@@ -11515,7 +11515,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 2155759387536596009, guid: 81002cad437f5054081252ea4349c222, type: 3}
+  m_ModelPrefab: {fileID: 0}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
   m_AnimateModel: 0

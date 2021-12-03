@@ -30,9 +30,11 @@ public class GameMaster : MonoBehaviour
     {
         if (sceneIndex > maxHole)
         {
-            SceneManager.LoadScene("Hole 18");
+            SceneManager.LoadScene("Start Menu");
         }
-        SceneManager.LoadScene(holes[sceneIndex]);
-
+        else
+        {
+            SceneManager.LoadScene(holes[sceneIndex]);
+        }
     }
 }
