@@ -5363,7 +5363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rightController: {fileID: 1281017039}
   putterSound: {fileID: 1633183995}
-  strokeText: {fileID: 0}
+  strokeText: {fileID: 744257295}
 --- !u!1001 &741978715
 PrefabInstance:
   m_ObjectHideFlags: 0

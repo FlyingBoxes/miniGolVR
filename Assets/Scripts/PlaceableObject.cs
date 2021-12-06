@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using SaveAndLoadCourse;
 using UnityEngine;
 
 public class PlaceableObject : MonoBehaviour
@@ -12,12 +11,6 @@ public class PlaceableObject : MonoBehaviour
     [SerializeField]
     private float _heightToBase = 0.17f;
     private bool _isPlaced = false;
-
-    private void Start()
-    {
-        var cM = new SaveCourseManager(); 
-        cM.SaveCourse();
-    }
 
     void Update()
     {

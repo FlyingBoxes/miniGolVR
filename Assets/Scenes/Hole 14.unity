@@ -6401,7 +6401,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rightController: {fileID: 1281017039}
   putterSound: {fileID: 1633183995}
-  strokeText: {fileID: 0}
+  strokeText: {fileID: 1602368240}
 --- !u!1 &749951953
 GameObject:
   m_ObjectHideFlags: 0

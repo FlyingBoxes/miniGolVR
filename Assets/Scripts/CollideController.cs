@@ -14,6 +14,23 @@ public class CollideController : MonoBehaviour
     public UnityEvent onColliderActivate;
     public UnityEvent onColliderCancel;
 
+    private CollideController CC;
+
+    void Awake()
+    {
+        if (CC != null)
+        {
+            GameObject.Destroy(CC);
+        }
+        else
+        {
+
+            CC = this;
+        }
+
+        DontDestroyOnLoad(this);
+    }
+
     private void Start()
     {
         colliderActivationReference.action.performed += ColliderModeActivate;
@@ -27,7 +44,11 @@ public class CollideController : MonoBehaviour
 
     private void ColliderModeActivate(InputAction.CallbackContext obj)
     {
-        Invoke("DeactivateCollider", .1f);
+        if (CC != null)
+        {
+            Invoke("DeactivateCollider", .1f);
+        }
+
     }
 
     void DeactivateCollider()

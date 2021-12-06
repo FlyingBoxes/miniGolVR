@@ -45,12 +45,12 @@ public class PutterHeadFollower : MonoBehaviour
         _putterFollower = putterFollower;
     }
 
-    //private void OnTriggerEnter(Collider other)
-    //{
-    //    if (other.CompareTag("Ball"))
-    //    {
-    //        Vector3 force = GetComponent<Rigidbody>().mass * _acceloration;
-    //        other.GetComponent<Rigidbody>().AddForce(force);
-    //    }
-    //}
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Ball"))
+        {
+            _rigidbody.velocity = _velocity;
+            transform.rotation = _putterFollower.transform.rotation;
+        }
+    }
 }
